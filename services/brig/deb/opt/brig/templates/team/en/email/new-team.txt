@@ -5,7 +5,7 @@ New team on Wire
 Your new team
 
 *Body:*
-You have just created a team called **Acme Inc.** on Wire with this email address.
+You have just created a team called **${teamName}** on Wire with this email address.
 Your 30–day free trial starts today.
 
 Wire combines strong encryption, a rich feature set and ease-of-use in one app like never before.
@@ -15,4 +15,4 @@ MANAGE YOUR TEAM
 
 *Small type*
 If you have any questions, please contact us.
-Team ID: 387638764-28973983793-3837389737-39383038
+Team ID: ${teamId}
